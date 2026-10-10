@@ -1,0 +1,13 @@
+:root { font-family: Arial, sans-serif; color: #1f2937; background: #f3f6fb; }
+body { margin: 0; }
+main { max-width: 760px; margin: 52px auto; padding: 34px 40px; background: #fff; border-radius: 12px; box-shadow: 0 8px 24px rgba(31, 41, 55, .12); }
+h1 { margin-top: 0; color: #173b65; }
+p { line-height: 1.5; }
+label { display: block; margin: 18px 0 7px; font-weight: 600; }
+input, select { width: 100%; box-sizing: border-box; padding: 10px 12px; font: inherit; border: 1px solid #aab6c5; border-radius: 6px; }
+button, .link-button { display: inline-block; margin-top: 25px; padding: 10px 18px; color: #fff; background: #1967a9; border: 0; border-radius: 6px; font: inherit; text-decoration: none; cursor: pointer; }
+button:hover, .link-button:hover { background: #135486; }
+table { width: 100%; border-collapse: collapse; margin: 16px 0 8px; background: rgba(255,255,255,.78); }
+th, td { padding: 10px; border: 1px solid rgba(40, 58, 78, .35); text-align: left; }
+th { width: 42%; background: rgba(255,255,255,.45); }
+.note { color: #536275; font-size: .94rem; }
